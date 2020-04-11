@@ -5,7 +5,6 @@ using namespace pros;
 //sensors
 Imu inertial(9);
 
-
 //motors
 Motor rightFront(1, E_MOTOR_GEARSET_18, false, E_MOTOR_ENCODER_DEGREES);
 Motor leftFront(3, E_MOTOR_GEARSET_18, true, E_MOTOR_ENCODER_DEGREES);
