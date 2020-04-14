@@ -37,6 +37,9 @@
 #include "api.h"
 #include "drive.hpp"
 #include "lift.hpp"
+#include "rollers.hpp"
+#include "tilter.hpp"
+#include "PIDController.hpp"
 
 extern pros::Controller master;
 
